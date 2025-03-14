@@ -1,0 +1,5 @@
+PySide6==6.6.1
+pyudev==0.24.1
+beautifulsoup4==4.12.3
+requests==2.31.0
+humanize==4.9.0 

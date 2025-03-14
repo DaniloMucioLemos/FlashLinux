@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=FlashLinux
+Comment=Utilitário para formatação USB e criação de mídias bootáveis Linux
+Exec=python3 /usr/local/bin/flashlinux.py
+Icon=/usr/share/icons/flashlinux.svg
+Terminal=false
+Type=Application
+Categories=System;
+Keywords=usb;format;linux;iso;
+X-GNOME-UsesNotifications=true 
