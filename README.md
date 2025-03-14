@@ -21,8 +21,8 @@ Utilitário especializado para formatação e preparação de dispositivos USB c
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/dmldev/flashlinux.git
-cd flashlinux
+git clone https://github.com/DaniloMucioLemos/FlashLinux.git
+cd FlashLinux
 ```
 
 2. Instale as dependências:
@@ -68,7 +68,7 @@ python3 flashlinux.py
 ## Suporte
 
 - Email: danmuciolemos@gmail.com
-- GitHub Issues: [Reportar Problema](https://github.com/dmldev/flashlinux/issues)
+- GitHub Issues: [Reportar Problema](https://github.com/DaniloMucioLemos/FlashLinux/issues)
 
 ## Licença
 

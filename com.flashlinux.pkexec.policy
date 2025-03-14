@@ -4,7 +4,7 @@
  "http://www.freedesktop.org/standards/PolicyKit/1/policyconfig.dtd">
 <policyconfig>
   <vendor>FlashLinux</vendor>
-  <vendor_url>https://github.com/dmldev/flashlinux</vendor_url>
+  <vendor_url>https://github.com/DaniloMucioLemos/FlashLinux</vendor_url>
   <action id="com.flashlinux.pkexec.format">
     <description>FlashLinux - Operações de formatação USB</description>
     <message>Autenticação necessária para formatar dispositivo USB</message>

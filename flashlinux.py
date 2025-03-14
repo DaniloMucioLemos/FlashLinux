@@ -1111,9 +1111,9 @@ class USBFormatter(QMainWindow):
         """Abre a página para reportar problemas"""
         QMessageBox.information(self, self.tr('report_bug'),
             f"{self.tr('report_bug')}:\n"
-            "https://github.com/seu-usuario/formatador-usb/issues\n\n"
+            "https://github.com/DaniloMucioLemos/FlashLinux/issues\n\n"
             "Email:\n"
-            "suporte@formatadorusb.com.br"
+            "danmuciolemos@gmail.com"
         )
     
     def show_pix_info(self):
